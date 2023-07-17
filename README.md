@@ -5,7 +5,8 @@
 **`Programming Languages`**
 
 <p>
-  <img src="https://img.shields.io/badge/java-f14c4d.svg?style=for-the-badge&logo=oracle&logoColor=white"/>
+  <img src="https://img.shields.io/badge/kotlin-7F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/java-f89820.svg?style=for-the-badge&logo=oracle&logoColor=white"/>
   <img src="https://img.shields.io/badge/python-3776AB.svg?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black"/>
 </p>
