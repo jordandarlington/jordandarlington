@@ -41,8 +41,8 @@
 
 ---
 
-![Jordan's GitHub stats](https://github-readme-stats.vercel.app/api?username=jordandarlington&show_icons=true&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jordandarlington&layout=compact&hide=html,css&langs_count=6&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5)](https://github.com/anuraghazra/github-readme-stats)
+![Jordan's GitHub stats](https://github-readme-stats.vercel.app/api?username=jordandarlington&show_icons=true&theme=github_dark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jordandarlington&layout=compact&hide=html,css&langs_count=6&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
