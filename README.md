@@ -23,11 +23,11 @@
   <img src="https://img.shields.io/badge/django-092E20.svg?style=for-the-badge&logo=django&logoColor=white"/>
   <img src="https://img.shields.io/badge/fastapi-009688.svg?style=for-the-badge&logo=fastapi&logoColor=white"/>
 </p>
-<p>
+<!-- <p>
   <img src="https://img.shields.io/badge/react.js-61DAFB.svg?style=for-the-badge&logo=react&logoColor=black"/>
   <img src="https://img.shields.io/badge/svelte.js-FF3E00.svg?style=for-the-badge&logo=svelte&logoColor=white"/>
   <img src="https://img.shields.io/badge/solid.js-2C4F7C.svg?style=for-the-badge&logo=solid&logoColor=white"/>
-</p>
+</p> -->
 
 ---
 
