@@ -1,5 +1,6 @@
 **`Software Engineer`**
 
+<!--
 ---
 
 **`Preferred Tools`**
@@ -18,7 +19,7 @@
   <img src="https://img.shields.io/badge/postgresql-4169E1.svg?style=for-the-badge&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/mongodb-47A248.svg?style=for-the-badge&logo=mongodb&logoColor=white"/>
 </p>
-
+-->
 ---
 
 ![Jordan's GitHub stats](https://github-readme-stats.vercel.app/api?username=jordandarlington&show_icons=true&theme=github_dark)
