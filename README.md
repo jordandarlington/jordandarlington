@@ -1,7 +1,7 @@
 **`Full Stack Software Engineer`**
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jordandarlington&layout=compact&hide=html,css&langs_count=6&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
-![Jordan's GitHub stats](https://github-readme-stats.vercel.app/api?username=jordandarlington&show_icons=true&theme=github_dark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jordandarlington&layout=compact&hide=html,css&langs_count=6&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
+![Jordan's GitHub stats](https://github-readme-stats.vercel.app/api?username=jordandarlington&show_icons=true&theme=gotham)
 
 <!--
 **jordandarlington/jordandarlington** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
