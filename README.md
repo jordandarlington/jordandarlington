@@ -1,5 +1,37 @@
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jordandarlington&layout=compact&hide=html,css,dockerfile&langs_count=6&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
-![Jordan's GitHub stats](https://github-readme-stats.vercel.app/api?username=jordandarlington&show_icons=true&theme=gotham)
+## Jordan Darlington
+
+<table>
+  <tr>
+    <td>
+      <img src="https://skillicons.dev/icons?i=java,spring,go,python,javascript,neovim,bash,github,githubactions,docker&perline=5">
+    </td>
+  </tr>
+</table>
+
+
+### About Me 🔘
+- Software Engineer at [Interactive Investor](https://github.com/interactive-investor).
+- Interested in DevOps and enhancing Developer Tooling.
+- Creating content for [dev-tutor](https://dev-tutor.com).
+- Restoring and Modifying vintage game consoles.
+
+---
+
+### Recent Blog Posts 🔘
+- Blog Post 1
+
+<br>
+
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=jordandarlington&show_icons=true&theme=gotham&hide_border=true&include_all_commits=false&count_private=false" alt="GitHub Stats" title="Github Stats"/>  
+    </td>
+    <td>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=jordandarlington&theme=gotham&hide_border=true" alt="Github Streak" title="Github Streak"/> 
+    </td>
+  </tr>
+</table>
 
 <!--
 **jordandarlington/jordandarlington** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
