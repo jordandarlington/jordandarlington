@@ -12,13 +12,9 @@
 ### About Me 🔘
 - Software Engineer at [Interactive Investor](https://github.com/interactive-investor).
 - Interested in DevOps and enhancing Developer Tooling.
-- Creating content for [dev-tutor](https://dev-tutor.com).
 - Restoring and Modifying vintage game consoles.
 
 ---
-
-### Recent Blog Posts 🔘
-- Blog Post 1
 
 <br>
 
