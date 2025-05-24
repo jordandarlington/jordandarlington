@@ -1,18 +1,21 @@
 ## Jordan Darlington
 
+<!--
 <table>
   <tr>
     <td>
-      <img src="https://skillicons.dev/icons?i=java,spring,go,python,javascript,neovim,bash,github,githubactions,docker&perline=5">
+      <img src="https://skillicons.dev/icons?i=java,spring,typescript,react,go,github,githubactions,docker&perline=4">
     </td>
   </tr>
 </table>
+-->
 
 
 ### About Me 🔘
-- Software Engineer at [Interactive Investor](https://github.com/interactive-investor).
-- Interested in DevOps and enhancing Developer Tooling.
-- Restoring and Modifying vintage game consoles.
+- 👨🏻‍💻 Software Engineer at [Interactive Investor](https://github.com/interactive-investor).
+- ⚙️ Interested in DevOps and Developer Tooling.
+- 👷🏻‍♂️ Building RocketCI
+- 🕹️ Restoring and Modifying vintage video game consoles.
 
 ---
 
