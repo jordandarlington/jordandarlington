@@ -1,4 +1,5 @@
-## Jordan Darlington
+
+---
 
 <!--
 <table>
@@ -10,8 +11,6 @@
 </table>
 -->
 
-
-### About Me 🔘
 - 👨🏻‍💻 Software Engineer at [Interactive Investor](https://github.com/interactive-investor).
 - 📚 Masters Student at [Northumbria University](https://www.northumbria.ac.uk).
 - ⚙️ I like DevOps and Developer Tooling.
