@@ -13,9 +13,8 @@
 
 ### About Me 🔘
 - 👨🏻‍💻 Software Engineer at [Interactive Investor](https://github.com/interactive-investor).
-- ⚙️ Interested in DevOps and Developer Tooling.
-- 👷🏻‍♂️ Building RocketCI
-- 🕹️ Restoring and Modifying vintage video game consoles.
+- 📚 Masters Student at [Northumbria University](https://www.northumbria.ac.uk).
+- ⚙️ I like DevOps and Developer Tooling.
 
 ---
 
